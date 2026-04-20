@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e2eaea8-1e2b-47ec-ae51-823000dbd737" 
+       alt="ARPS Intraday Signal"
+       width="60%" />
+</p>
+
+
 # ARPS Intraday Signal
 **Originally created: August 05, 2020**
 *(Note: This script was created in 2020 but is being shared on GitHub on 2025-04-25)*
